@@ -1,1 +1,1 @@
-# qraphQL-API-with-Java-Spring-Boot
+# graphQL-API-with-Java-Spring-Boot
